@@ -1,4 +1,4 @@
-# GEMINI-CHATBOT-npm inti
+# GEMINI-CHATBOT
 
 Backend de um mini chatbot utilizando Node.js, Express e integração com a API Gemini da Google.
 
