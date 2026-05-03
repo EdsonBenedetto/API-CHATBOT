@@ -1,2 +1,7 @@
 node_modules
 .env
+
+#Arquivo de teste
+teste.js
+#Servidor
+server.js
